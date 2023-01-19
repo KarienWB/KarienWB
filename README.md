@@ -1,4 +1,4 @@
-### Hi, I'm Karien, a passionate cybersecurity/Information Technology student.
+### Hi, I'm Karien, a passionate Cybersecurity/Information Technology student.
 
 #### Cybersecurity and IT projects:
 
