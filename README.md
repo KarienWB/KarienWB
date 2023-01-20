@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Karien, a passionate Cybersecurity/Information Technology student.
 --------------------------------------------------------------------------------
 #### Cybersecurity and IT projects:
-
+<br/>
 
 Networking, security, and IT infrastructure
 * [Corporation Tech Network Design Final Report.pdf](https://github.com/KarienWB/KarienWB/files/10463409/Corporation.Tech.Network.Design.Final.Report.pdf)
