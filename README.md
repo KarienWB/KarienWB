@@ -4,7 +4,7 @@
 <br/>
 
 Networking, security, and IT infrastructure
-* [Corporation Tech Network Design Final Report.pdf](https://github.com/KarienWB/KarienWB/files/10463409/Corporation.Tech.Network.Design.Final.Report.pdf)
+* [Corporation Tech Network Design Report.pdf](https://github.com/KarienWB/KarienWB/files/10463409/Corporation.Tech.Network.Design.Final.Report.pdf)
 
 Active Directory
 * [ADDS.pdf](https://github.com/KarienWB/KarienWB/files/10463358/ADDS.pdf)
