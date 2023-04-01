@@ -4,13 +4,13 @@
 <br/>
 
 Networking, security, and IT infrastructure
-* [Corporation Tech Network Design Report.pdf](https://github.com/KarienWB/KarienWB/files/10463409/Corporation.Tech.Network.Design.Final.Report.pdf)
+* [Corporation Tech Network Design Report and Proposal.pdf](https://github.com/KarienWB/KarienWB/files/10463409/Corporation.Tech.Network.Design.Final.Report.pdf)
 
 Active Directory
-* [ADDS.pdf](https://github.com/KarienWB/KarienWB/files/10463358/ADDS.pdf)
+* [ADDS Installation Technical Documentation and Manuel.pdf](https://github.com/KarienWB/KarienWB/files/10463358/ADDS.pdf)
 
 Python Scripting
-* [File Integrity Monitor.pdf](https://github.com/KarienWB/KarienWB/files/10422651/File.Integrity.Monitor.pdf)
+* [File Integrity Monitor with Email Notification.pdf](https://github.com/KarienWB/KarienWB/files/10422651/File.Integrity.Monitor.pdf)
 
 
 
